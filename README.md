@@ -67,7 +67,7 @@ class Result {
 ![image](https://github.com/sanjeevkumarray/HackerRank-SoftWare-Enginner-Role-Certification-Test/assets/53333326/d9491e42-baed-4e7d-890b-3adde013cfc1)
 
 
-#
+ #
 
 /*
 Enter your query here.
@@ -84,6 +84,7 @@ LIMIT 1;
 
 
 # Question 3:
+
 # REST API: Products in Range
 
 
@@ -105,6 +106,7 @@ LIMIT 1;
 
 
 #
+
 
 class Result {
     /*
@@ -157,6 +159,7 @@ class Result {
         return totalItemsInRange;
     }
 }
+
 
 
 
