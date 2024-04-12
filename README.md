@@ -72,11 +72,11 @@ class Result {
  
  # 
 
-/*
-Enter your query here.
-*/
-SELECT CUSTOMER_ID
-FROM (
+  /*
+ Enter your query here.
+ */
+  SELECT CUSTOMER_ID
+   FROM (
     SELECT CUSTOMER_ID, COUNT(ID) AS order_count
     FROM ORDERS
     GROUP BY CUSTOMER_ID
@@ -114,7 +114,7 @@ LIMIT 1;
 # 
 
 
-class Result {
+    class Result {
     /*
      * Complete the 'getProductsInRange' function below.
      *
